@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning: Swift for native iOS dev and TypeScript.
 - 👨🏻‍🎓 General Assembly Software Engineering Immersive graduate!
 - ☕ Greatest cliché: I really do love coffee. 
-- 🎾 You'll find me: Walking in a park, reading tech news, at the local gym or even playing tennis (though I'm pretty rough at it).
+- 🎾 You'll find me: Walking in a park, reading tech news, at the local gym or playing tennis (though I'm pretty rough at it).
 
