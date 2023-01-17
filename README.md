@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Tom 👨🏻‍💻
-#### A software engineer based in London.
+#### Software Engineer working for R2-Factory @ Rolls Royce!
 - ⛹🏻‍♂️ I’m really into reading, coding and sports.
 - 🌱 I’m currently learning: Swift for native iOS dev and TypeScript.
 - 👨🏻‍🎓 General Assembly Software Engineering Immersive graduate!
